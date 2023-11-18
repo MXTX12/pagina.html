@@ -1,0 +1,14 @@
+section a{
+color: #5e5555;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 40px;
+text-align: center;
+padding-top: 100px;
+}
+.link:hover{
+    text-decoration: underline;
+}
+video{
+width: 850px;
+height: 500px;
+}

@@ -1,0 +1,52 @@
+#libros{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container{
+    border: solid 1px rgb(158, 158, 130);
+    border-radius: 30px;
+}
+
+table{
+    background-color: #b8b8a4;
+    color: #fff;
+    font-size: 22px;
+    table-layout: fixed;
+    border-collapse:collapse;
+    border-radius: 30px;
+    width: 1650px;
+    height: 750px;
+}
+
+thead{
+    background: #504848;
+}
+
+th{
+    padding: 20px 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 30px
+}
+
+td{
+    padding: 15px;
+    border-bottom: solid 1px rgb(158, 158, 139);
+    text-align: center;
+}
+
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40px;
+}
+
+tbody tr{
+    cursor: pointer;
+}
+
+tbody tr:hover{
+    background: #a19393;
+}

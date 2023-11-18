@@ -1,0 +1,9 @@
+.imagenes{
+    display: flex;
+    width: 200;
+    height: 300px;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 10px;
+    padding: 7px;
+}
